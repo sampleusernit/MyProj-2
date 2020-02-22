@@ -6,6 +6,7 @@ public class Employee {
 	private String empName;
 	private Double empSal;
 	private String empDept;
+	private String empAddrs;
 	
 	public Employee() {
 		super();
